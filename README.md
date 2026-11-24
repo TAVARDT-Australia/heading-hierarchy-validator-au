@@ -49,3 +49,7 @@ For interactive heading structure testing in the cloud:
 ## Australian Enterprise Inquiries
 
 For technical assistance aligned with Australian Digital Transformation Agency Web Standards and W3C WCAG, contact **TAVARDT Australia**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
