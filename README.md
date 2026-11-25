@@ -6,8 +6,6 @@
 
 Evaluating HTML document outline structure, single H1 adherence, and skipping level detection.
 
-Developed and maintained by the digital systems and accessibility group at **TAVARDT**.
-
 ***
 
 ## Heading Structure Auditing Capabilities
@@ -38,15 +36,6 @@ python heading_hierarchy_validator.py https://enterprise.com.au -json
 
 ***
 
-## Australian Diagnostic Suite
-
-For interactive heading structure testing in the cloud:
-
-* **Official Heading Tags Checker**
-* **TAVARDT Portal**
-
-***
-
 ## Australian Enterprise Inquiries
 
 For technical assistance aligned with Australian Digital Transformation Agency Web Standards and W3C WCAG, contact **TAVARDT**.
@@ -62,7 +51,7 @@ For technical assistance aligned with Australian Digital Transformation Agency W
 ***
 
 ### License
-Released under the MIT License. See [LICENSE](LICENSE) for full details.
+Released under the MIT License.
 
 ***
 
